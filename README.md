@@ -1,7 +1,14 @@
+<div align="center">
+
 # 🚀 C++ Learning Journey
 
-Welcome to my **C++ Learning Repository**.
+### From Beginner to Professional 💻
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Learning+C%2B%2B+Step+by+Step;Daily+Coding+Practice;Building+Strong+Programming+Skills;Future+Software+Developer" />
+
+</div>
+
+---
 This repository contains my daily C++ programming practice from **Beginner to Advanced**. I am learning C++ step by step and uploading my code regularly.
 
 ---
