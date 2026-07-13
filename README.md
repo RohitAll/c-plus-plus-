@@ -103,3 +103,12 @@ If you like this repository, don't forget to ⭐ Star it.
 GitHub: https://github.com/RohitAll
 
 🚀 Happy Coding!
+
+---
+<div align="center">
+
+## 🚀 Thanks for visiting my README.md ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
+
+</div>
