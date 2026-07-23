@@ -815,3 +815,18 @@ Write C++ programs for the following:
 
 
 */
+
+
+#include <iostream>
+using namespace std;
+
+void greetUser(string name, string greeting = "Namaste") {
+    cout << greeting << ", " << name << "!" << endl;
+}
+
+int main() {
+    greetUser("Rohit");              // default greeting use hogi
+    greetUser("Priya", "Hello");     // custom greeting pass ki
+    greetUser("Amit", "Good Morning");
+    return 0;
+}
